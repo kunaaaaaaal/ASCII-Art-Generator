@@ -28,7 +28,7 @@ Then I applies Gaussian Blur to the image.
 Then I obtained the sketch by performing Bitwise division between the Grayscale image and the inverted Blurred image.
 Then, I saved the created Sketch.
 
-![Output-2](https://user-images.githubusercontent.com/99754070/174424886-cd61ee04-fce4-4241-a557-f58f5f2ab08b.png)
+![Input-2](https://user-images.githubusercontent.com/99754070/174424897-fc54ad61-2344-44a7-b8f0-a2fa838c43c6.jpg)
 
 
 ![Output-2](https://user-images.githubusercontent.com/99754070/174424888-e9b57069-17c3-45c1-b548-74cfda6dad6f.png)
