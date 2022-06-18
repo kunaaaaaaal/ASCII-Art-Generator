@@ -26,7 +26,7 @@ grey_img=cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 invert_img=cv.bitwise_not(grey_img)
 
 # Gaussian blur is applied to the image.
-# The kernel size of (31,31) is selected by Hit-And-Trial method.
+# The kernel size of (51,51) is selected by Hit-And-Trial method.
 
 blur_img=cv.GaussianBlur(invert_img, (51,51),0)
 
