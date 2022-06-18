@@ -2,6 +2,8 @@
 
 ASCII(American Standard Code for Information Interchange) is a common encoding format used for representing strings and text data in computers.
 
+I have used ASCII Characters' strings to draw an image.
+
 I have used Opencv and Pillow libraries to write the code.
 
 Also, I have written the code for generating a Pencil Sketch of an image using Opencv exclusively.
