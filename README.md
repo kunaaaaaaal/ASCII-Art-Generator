@@ -12,9 +12,10 @@ I made a character map of ASCII characters of increasing order of brightness.
 I also added colors to the ASCII characters.
 Then, I Stored the output.
 
-![Input-5](https://user-images.githubusercontent.com/99754070/174424687-6e24efdd-1eda-4227-b793-4973a6abe918.jpg)
+![Input-6](https://user-images.githubusercontent.com/99754070/174424843-8f689ee2-5c78-4360-a6e1-41b175e451b2.jpg)
 
-![Output-5](https://user-images.githubusercontent.com/99754070/174424696-22907e51-816a-40ec-810d-5664dbdc542f.jpg)
+![output-6](https://user-images.githubusercontent.com/99754070/174424849-6d255325-3dad-4da5-b6f3-f5c4162b4965.jpg)
+
 
 
 2. Pencil Sketch Generator
