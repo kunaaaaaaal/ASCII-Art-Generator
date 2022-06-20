@@ -1,4 +1,5 @@
 # opencv library is used to read and edit pictures.
+#Pillow can also be used for the same.
 
 import numpy as np
 import cv2 as cv
@@ -11,7 +12,7 @@ img = cv.imread("photo-4.jpg")
 
 print(img.shape)
 
-# Code to display the original image.
+# This code displays the original image.
 
 cv.imshow('wow', img)
 cv.waitKey(0)
